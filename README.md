@@ -1,5 +1,5 @@
 # Windows98
-A Windows 98 prototype built in Power Apps for some nostalgia!
+A Windows 98 prototype built in Power Apps!
 
 Just a fun mini project because why not :)
 
